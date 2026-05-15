@@ -1,0 +1,20 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+January		1482705153
+February		1483673483
+March		1495739535
+April		1501752108
+May		1501752108
+June		1501752108
+July		1501752108
+August		1501752108
+September		1514143670
+October		1514143670
+November		1514123586
+December		1514123586
