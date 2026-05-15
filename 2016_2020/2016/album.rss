@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2016</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="January/album.rss" />   	
+    	<jalbum:link rel="sub" href="February/album.rss" />   	
+    	<jalbum:link rel="sub" href="March/album.rss" />   	
+    	<jalbum:link rel="sub" href="April/album.rss" />   	
+    	<jalbum:link rel="sub" href="May/album.rss" />   	
+    	<jalbum:link rel="sub" href="June/album.rss" />   	
+    	<jalbum:link rel="sub" href="July/album.rss" />   	
+    	<jalbum:link rel="sub" href="August/album.rss" />   	
+    	<jalbum:link rel="sub" href="September/album.rss" />   	
+    	<jalbum:link rel="sub" href="October/album.rss" />   	
+    	<jalbum:link rel="sub" href="November/album.rss" />   	
+    	<jalbum:link rel="sub" href="December/album.rss" />   	
+        
+    </channel>
+</rss>
