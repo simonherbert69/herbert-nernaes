@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>June</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Video/album.rss" />   	
+        <item>
+            <title>IMG_3821</title>
+            <link>slides/IMG_3821.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3821.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3821.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Fri, 03 Jun 2016 19:07:18 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3821.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3843</title>
+            <link>slides/IMG_3843.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3843.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3843.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Fri, 10 Jun 2016 20:30:19 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3843.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3844</title>
+            <link>slides/IMG_3844.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3844.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3844.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Fri, 10 Jun 2016 20:30:19 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3844.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3852</title>
+            <link>slides/IMG_3852.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3852.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3852.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Fri, 10 Jun 2016 20:31:02 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3852.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3854</title>
+            <link>slides/IMG_3854.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3854.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3854.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Fri, 10 Jun 2016 23:05:10 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3854.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3855</title>
+            <link>slides/IMG_3855.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3855.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3855.JPG" width="540" height="720"/>
+            <guid isPermaLink="false">slides/IMG_3855.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3856</title>
+            <link>slides/IMG_3856.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3856.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3856.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 11 Jun 2016 19:24:15 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3856.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5169</title>
+            <link>slides/IMG_5169.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5169.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5169.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:18:24 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5169.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5170</title>
+            <link>slides/IMG_5170.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5170.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5170.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:18:24 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5170.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5171</title>
+            <link>slides/IMG_5171.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5171.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5171.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:18:27 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5171.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5172</title>
+            <link>slides/IMG_5172.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5172.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5172.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:18:44 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5172.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5173</title>
+            <link>slides/IMG_5173.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5173.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5173.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:19:31 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5173.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5174</title>
+            <link>slides/IMG_5174.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5174.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5174.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:19:37 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5174.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5175</title>
+            <link>slides/IMG_5175.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5175.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5175.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:19:39 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5175.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5176</title>
+            <link>slides/IMG_5176.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5176.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5176.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:20:54 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5176.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_5177</title>
+            <link>slides/IMG_5177.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5177.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_5177.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:20:57 +0900" cameraMake="Canon" cameraModel="Canon EOS 600D"/>
+            <guid isPermaLink="false">slides/IMG_5177.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3870</title>
+            <link>slides/IMG_3870.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3870.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3870.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:13:01 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3870.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3871</title>
+            <link>slides/IMG_3871.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3871.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3871.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sun, 19 Jun 2016 16:19:54 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3871.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3877</title>
+            <link>slides/IMG_3877.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3877.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3877.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 09:19:36 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3877.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3878</title>
+            <link>slides/IMG_3878.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3878.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3878.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 09:19:40 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3878.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3879</title>
+            <link>slides/IMG_3879.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3879.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3879.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 09:42:17 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3879.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3880</title>
+            <link>slides/IMG_3880.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3880.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3880.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 13:23:20 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3880.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3881</title>
+            <link>slides/IMG_3881.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3881.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3881.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 13:23:22 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3881.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3882</title>
+            <link>slides/IMG_3882.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3882.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3882.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 13:23:24 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3882.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3883</title>
+            <link>slides/IMG_3883.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3883.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3883.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 13:23:26 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3883.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3885</title>
+            <link>slides/IMG_3885.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3885.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3885.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 14:15:42 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3885.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3886</title>
+            <link>slides/IMG_3886.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3886.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3886.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 14:15:44 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3886.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3887</title>
+            <link>slides/IMG_3887.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3887.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3887.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 14:15:48 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3887.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3888</title>
+            <link>slides/IMG_3888.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3888.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3888.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 14:15:50 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3888.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3889</title>
+            <link>slides/IMG_3889.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3889.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3889.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Sat, 25 Jun 2016 14:15:52 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3889.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3890</title>
+            <link>slides/IMG_3890.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3890.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3890.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Thu, 30 Jun 2016 16:08:26 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3890.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_3891</title>
+            <link>slides/IMG_3891.JPG</link>
+            <pubDate>Sun, 01 Jan 2017 19:15:07 +0900</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3891.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMG_3891.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Thu, 30 Jun 2016 16:08:26 +0900" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3891.JPG</guid>
+        </item>
+    </channel>
+</rss>
